@@ -1,0 +1,19 @@
+{
+  "id": "demo_short_01",
+  "title": "THE IMPOSSIBLE GLITCH! 🎮",
+  "hook": "THIS SPEEDRUNNER BROKE PHYSICS!",
+  "script": "This player spent over 50 hours trying to beat the most impossible map in gaming history! Watch how he hits this frame perfect launch! Subscribe for more insane clips!",
+  "voice": "en-US-ChristopherNeural",
+  "segments": [
+    {
+      "file": "assets/clips/demo_clip_1.mp4",
+      "start": 0.0,
+      "duration": 4.0
+    },
+    {
+      "file": "assets/clips/demo_clip_2.mp4",
+      "start": 2.0,
+      "duration": 5.0
+    }
+  ]
+}
